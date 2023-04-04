@@ -1,8 +1,0 @@
-D:\repo\Github\Reconnect_FritzBox\Reconnect_FritzBox\bin\Debug\Reconnect_FritzBox.exe.config
-D:\repo\Github\Reconnect_FritzBox\Reconnect_FritzBox\bin\Debug\Reconnect_FritzBox.exe
-D:\repo\Github\Reconnect_FritzBox\Reconnect_FritzBox\bin\Debug\Reconnect_FritzBox.pdb
-D:\repo\Github\Reconnect_FritzBox\Reconnect_FritzBox\obj\Debug\Reconnect_FritzBox.csproj.AssemblyReference.cache
-D:\repo\Github\Reconnect_FritzBox\Reconnect_FritzBox\obj\Debug\Reconnect_FritzBox.csproj.SuggestedBindingRedirects.cache
-D:\repo\Github\Reconnect_FritzBox\Reconnect_FritzBox\obj\Debug\Reconnect_FritzBox.csproj.CoreCompileInputs.cache
-D:\repo\Github\Reconnect_FritzBox\Reconnect_FritzBox\obj\Debug\Reconnect_FritzBox.exe
-D:\repo\Github\Reconnect_FritzBox\Reconnect_FritzBox\obj\Debug\Reconnect_FritzBox.pdb
